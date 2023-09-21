@@ -2,7 +2,7 @@
 Modul 3 Prak Mobile//
 Reza Fahlevi Herdiyanto 
  (1217050120)
-//Praktikum Aplikasi Mobile Kelas F
+//Praktikum Aplikasi Mobile Kelas D
 
 ===Output===
 
