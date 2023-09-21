@@ -1,6 +1,6 @@
 # IntentProject
 Modul 3 Prak Mobile//
-Reza Fahlevi Herdiyanto// 
+Reza Fahlevi Herdiyanto 
  (1217050120)
 //Praktikum Aplikasi Mobile Kelas F
 
